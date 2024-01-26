@@ -1,0 +1,4 @@
+location,dateTime,DEVICE_ID,errorMessage
+"app/indext.tsx","26/01/2024 10:05:26","CEL","App iniciou TESTE"
+"downloadMedia","26/01/2024 10:06:02","CEL","Erro ao limpar armazenamento depois de um erro: TypeError: Cannot read property 'Restart' of null"
+"downloadMedia","26/01/2024 10:06:02","CEL","Error on updating media to loaded = 1: Error: no such table: clevermedia (code 1 SQLITE_ERROR): , while compiling: UPDATE clevermedia SET loaded = ? WHERE idServidor = ?"
